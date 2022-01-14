@@ -21,25 +21,25 @@
 "Write what each of the operators do in JavaScript"
 "(hint, an operator is a mini instruction)"
 
-"Opr" | "Use"
-------+------
-=     |
-==    |
-===   |
->     |
-<     |
->=    |
-<=    |
-!     |
-||    |
-&&    |
-+     |
--     |
-/     |
-*     |
-++    |
---    |
-;     |
+"Opr  |  Use"
+"------+------"
+"=     |      "
+"==    |      "
+"===   |      "
+">     |      "
+"<     |      "
+">=    |      "
+"<=    |      "
+"!     |      "
+"||    |      "
+"&&    |      "
+"+     |      "
+"-     |      "
+"/     |      "
+"*     |      "
+"++    |      "
+"--    |      "
+";     |      "
  
  
 "Write a conditional statement (also known as if/else) that prints out 'Eriq is awesome' if the variable 'x' is greater than 0"
