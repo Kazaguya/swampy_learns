@@ -39,7 +39,7 @@
 "  *    |       "
 "  ++   |       "
 "  --   |       "
-"  ;    |       " "(hint, this one isn't actually an operator, but it is really important to know what it does)"
+"  ;    |        <---(hint, this one isn't actually an operator, but it is really important to know what it does)"
  
  
 "Write a conditional statement (also known as if/else) that prints out 'Eriq is awesome' if the variable 'x' is greater than 0"
