@@ -21,7 +21,7 @@
 "Write what each of the operators do in JavaScript"
 "(hint, an operator is a mini instruction)"
 
-"Opr  |  Use"
+"Opr   |   Use"
 "------+------"
 "=     |      "
 "==    |      "
